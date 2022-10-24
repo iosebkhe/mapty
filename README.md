@@ -4,6 +4,10 @@
 
 ### Links
 
+Created with the help of this amazing JS course:
+
+- Course URL: [Click here](https://www.udemy.com/course/the-complete-javascript-course/)
+
 - Live Site URL: [Click here](https://mapty-iosebkhe.netlify.app/)
 
 ###
