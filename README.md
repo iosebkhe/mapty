@@ -23,5 +23,5 @@ Created with the help of this amazing JS course:
 ## Author
 
 - CodePen - [@iosebkhe](https://codepen.io/iosebkhe)
-- Frontend Mentor - [@iosebkhe](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@iosebkhe](https://www.frontendmentor.io/profile/iosebkhe)
 - Linkedin - [Ioseb Khetsuriani](https://www.linkedin.com/in/ioseb-khetsuriani-1831801b5/)
