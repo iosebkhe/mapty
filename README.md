@@ -10,7 +10,7 @@ Created with the help of this amazing JS course:
 
 - Live Site URL: [Click here](https://mapty-iosebkhe.netlify.app/)
 
-###
+### Created with
 
 - Javascript (OOP approach)
 - Semantic HTML5 markup
